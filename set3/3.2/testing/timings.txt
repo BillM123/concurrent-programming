@@ -1,0 +1,18 @@
+NOW RUNNING USING 4 CORES
+Running with small primes
+  P1:
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.001s
+  P2:
+Terminating...
+Error on down (first call): Identifier removed
+Error on down (first call): Identifier removed
+Error on down (first call): Identifier removed
+Error on down (first call): Identifier removed
+
+real	0m0.021s
+user	0m0.009s
+sys	0m0.015s
+  P3:

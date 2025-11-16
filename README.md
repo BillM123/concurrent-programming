@@ -1,6 +1,6 @@
-## Parallel Programming Code
+## Concurrent Programming Code
 
-This code was created as part of a parallel programming course concerning threading in C. Threading is implemented using POSIX threads. Please keep in mind that this code was not developed with real‑world use, and there might be slight implementation errors (especially concerning code that was meant to test custom libraries). Some general scripts for testing the code are also included
+This code was created as part of a concurrent programming course concerning threading in C. Threading is implemented using POSIX threads. Please keep in mind that this code was not developed with real‑world use, and there might be slight implementation errors (especially concerning code that was meant to test custom libraries). Some general scripts for testing the code are also included
 
 ## Building the code
 
